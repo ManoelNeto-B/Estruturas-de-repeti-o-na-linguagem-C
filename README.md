@@ -1,2 +1,2 @@
 # Estruturas-de-repeti-o-na-linguagem-C
-Ainda não terminada
+Lista de exercício sobre estrutura de repetição na linguagem C
